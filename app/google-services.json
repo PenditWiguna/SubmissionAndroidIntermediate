@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541284784091",
+    "project_id": "keenanstory-6a604",
+    "storage_bucket": "keenanstory-6a604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541284784091:android:0cad42762c1f569a0279fe",
+        "android_client_info": {
+          "package_name": "android.me.keenanstory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1DSniVTCyxI7PaV6nAkZ6_5vrLX_IEAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
